@@ -1,4 +1,4 @@
-# basicwebdesign2025
+# Basic Webdesign 2025
 
 Rishis Summer Project in Webdesign
 
